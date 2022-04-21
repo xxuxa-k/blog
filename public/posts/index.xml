@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on tk tech</title>
+    <link>http://tk-tech.xyz/posts/</link>
+    <description>Recent content in Posts on tk tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 22 Apr 2022 04:41:33 +0900</lastBuildDate><atom:link href="http://tk-tech.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tech blogを開始します</title>
+      <link>http://tk-tech.xyz/posts/blog-start/</link>
+      <pubDate>Fri, 22 Apr 2022 04:41:33 +0900</pubDate>
+      
+      <guid>http://tk-tech.xyz/posts/blog-start/</guid>
+      <description>自分の勉強したものが残っていかないので、ジャンル問わず適当に残していこうと思います。</description>
+    </item>
+    
+  </channel>
+</rss>

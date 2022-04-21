@@ -1,0 +1,4 @@
+baseURL = 'http://tk-tech.xyz/'
+languageCode = 'ja-jp'
+title = 'tk tech'
+theme = 'hugo-coder'
