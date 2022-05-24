@@ -1,8 +1,15 @@
----
-title: "Exceptional Chord Name"
-date: 2022-05-24T11:32:34+09:00
-draft: true
----
++++ 
+draft = false
+date = 2022-05-24T11:32:34+09:00
+title = "変な名前のコードを覚える"
+description = ""
+slug = ""
+authors = []
+tags = []
+categories = []
+externalLink = ""
+series = []
++++
 
 いろんな言い方してみて整理する
 
@@ -31,4 +38,4 @@ draft: true
 - [Csus4](http://music.cyberlab.info/chords/C/Csus4.html)
 
 
-![Csus4 keyboard](exceptional-chord-name/Csus4-keyboard.png)
+![Csus4 keyboard](Csus4-keyboard.png)
