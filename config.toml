@@ -22,6 +22,11 @@ url = "https://github.com/xxuxa-k"
 weight = 1
 
 [[languages.ja.menu.main]]
-name = "Blog"
+name = "blog"
 weight = 1
-url = "blogs/"
+url = "blog/"
+
+[[languages.ja.menu.main]]
+name = "music"
+weight = 2
+url = "music/"
