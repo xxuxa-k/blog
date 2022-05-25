@@ -10,6 +10,7 @@ description = "tk's tech blog"
 keywords = "blog,developer,personal"
 # info = ["毎日ゴロゴロ"]
 avatarURL = "images/avatar.jpg"
+custom_css = ["css/custom_styles.css"]
 
 [[params.social]]
 name = "Github"
@@ -22,11 +23,11 @@ url = "https://github.com/xxuxa-k"
 weight = 1
 
 [[languages.ja.menu.main]]
-name = "blog"
+name = "about"
 weight = 1
-url = "blog/"
+url = "about/"
 
 [[languages.ja.menu.main]]
-name = "music"
+name = "blog"
 weight = 2
-url = "music/"
+url = "posts/"
